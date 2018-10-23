@@ -1,0 +1,30 @@
+{
+  "name": "nobal-web",
+  "version": "1.0.0",
+  "description": "For an interview",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "author": "Joesph Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "reactstrap": "^6.5.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {}
+}
